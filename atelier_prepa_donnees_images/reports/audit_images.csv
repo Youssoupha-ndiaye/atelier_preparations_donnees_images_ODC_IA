@@ -1,0 +1,9 @@
+indicateur,nombre
+Total d'images,1032
+Images corrompues,6
+Images quasi vides,4
+Images trop petites (< 64x64),13
+Doublons (copies à retirer),15
+"Images grayscale (visuellement, hors mode L/P)",17
+Images RGBA,18
+Images mal classées (doublons multi-classes détectés),10
